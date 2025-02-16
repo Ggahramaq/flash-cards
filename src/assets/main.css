@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'marker';
+    src: url('123marker.ttf');
+}
+
+* {
+    font-family: marker;
+}

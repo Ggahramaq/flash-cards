@@ -2,7 +2,6 @@
 import {ref} from 'vue'
 const questionNumber = ref(2);
 const isQuestion = ref(true);
-import {Icon} from '@iconify/vue'
 
 const questions = [
   { question: "What does HTML stand for?", answer: "HyperText Markup Language.", type: 'HTML' },
